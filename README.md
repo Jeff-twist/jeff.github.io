@@ -18,7 +18,7 @@ After Exploration and cleaning, I created a Dataframe to hold information of win
 - Age that has the most wins
 - Details of the 2019 winner
 
-From the output of the charts I discovered that the best performance for both genders came in the year 2018 where the temperature was about 15⁰C and the lowest was in the year 2009 which had a temperature of 16.5⁰C. So it's safe to say that, Temperatures between the range of 13⁰C and 15⁰C brought out the best in the athletes.
+From the output of the charts I discovered that the best performance for both genders came in the year 2018 where the temperature was about 15⁰C and the lowest was in the year 2009 which had a temperature of 16.5⁰C. So it's safe to say that, Temperatures between the range of 13⁰C and 15⁰C is optimal for PEAK ATHLETIC PERFORMACE.
 
 While working on this project I got to learn more Data exploration and cleaning techniques to enable me filter my Data to be more presentable and flexible.
 
