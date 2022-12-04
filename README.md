@@ -23,3 +23,4 @@ From the output of the charts I discovered that the best performance for both ge
 While working on this project I got to learn more Data exploration and cleaning techniques to enable me filter my Data to be more presentable and flexible.
 
 I also learned the impact of weather in marathon races and the best weather temperature for a favorable race.
+ 
